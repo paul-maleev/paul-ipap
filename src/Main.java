@@ -105,6 +105,8 @@ public class Main {
 
 
     public static void main (String[] args) {
+
+        System.out.println("pasha.maleev@gmail.com");
         System.out.println(findDistance(new Point(0,0),new Point(4,3)));
         //getTriangleArea();
         Point a = new Point();
